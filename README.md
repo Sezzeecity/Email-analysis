@@ -38,4 +38,10 @@ This project analyzes email campaign performance using **Power BI**. It provides
 ## 📈 Recommendations  
 - **Optimize lead conversion strategies** through personalized content.  
 - **Improve email deliverability** in high-bounce regions by validating email lists.  
-- **Re-evaluate promotional campaigns** to improve engagement rates.  
+- **Re-evaluate promotional campaigns** to improve engagement rates.
+
+- ### 📩 Connect with Me
+**Shittu Segun**  
+📧 [shittusegunoluwafemi705@gmail.com](mailto:shittusegunoluwafemi705@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shittusegun01)  
+
